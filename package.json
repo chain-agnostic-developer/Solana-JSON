@@ -1,6 +1,6 @@
 {
   "name": "solana-json",
-  "version": "1.0.2",
+  "version": "1.22.17",
   "description": "A library for storing and retrieving JSON data from the Solana blockchain",
   "main": "solana-json.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "library"
   ],
   "dependencies": {
-    "@solana/web3.js": "^0.46.0",
+    "@solana/web3.js": "^1.31.0",
     "buffer-layout": "^1.2.0"
   },
   "author": "James Bachini",
